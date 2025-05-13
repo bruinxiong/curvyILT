@@ -1,5 +1,34 @@
-# curvyILT
+# Curvy ILT
 
-## ISPD2025 
+The source code of 
 
-Stay Tuned, We are going through the necessary Legal process and internal approval before releasing the source code.
+**Yang, Haoyu** and **Ren, Haoxing**.  
+**"GPU-Accelerated Inverse Lithography Towards High Quality Curvy Mask Generation."**  
+*Proceedings of the 2025 International Symposium on Physical Design*, pp. 42–50, 2025.
+
+This repo is deprecated. Future maintenance will only happen in https://github.com/NVlabs/curvyILT
+
+
+## Prepare
+
+Install Package Dependencies
+
+`pip install -r requirements.txt`
+
+Install OpenCV seperately
+
+`$sudo apt-get install python3-opencv`
+
+## Usage
+
+This is a running example on ICCAD13 benchmark images.
+Change the directory for your own design.
+
+`python3 run_iccad13.py`
+
+## Contact
+
+[Haoyu Yang](mailto:haoyuy@nvidia.com)
+
+
+
