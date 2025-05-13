@@ -6,6 +6,8 @@ The source code of
 **"GPU-Accelerated Inverse Lithography Towards High Quality Curvy Mask Generation."**  
 *Proceedings of the 2025 International Symposium on Physical Design*, pp. 42–50, 2025.
 
+This repo is deprecated. Future maintenance will only happen in https://github.com/NVlabs/curvyILT
+
 
 ## Prepare
 
